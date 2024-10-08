@@ -142,15 +142,24 @@ body {
 
     .cabecalho__menu{
         justify-content: center; /*Centraliza os itens do menu*/
+        gap: 1.8rem;
     }
 
     .apresentacao{
         flex-direction: column-reverse; /*A imagem irá pra cima, em coluna | Inverte a ordem dos elementos*/
         gap: 1px; /*Reduz o espaçamento entre itens*/
-        padding: 4%;
+        padding: 4% 4% 8% 4%;
     }
 
     .apresentacao__conteudo{
         width: auto; /*Você tem esse espaço, e esse é o padding (ocupa o espaço que tiver) - Automático | Largura auto para se ajustar ao espaço disponivel*/
+    }
+
+    .apresentacao__conteudo__titulo{
+        padding: 8% 0% 0% 3%;
+    }
+
+    .apresentacao__conteudo__texto{
+        padding: 0% 4%; /*superior, direita, inferior e esquerda*/
     }
 }
