@@ -142,7 +142,7 @@ body {
 
     .cabecalho__menu{
         justify-content: center; /*Centraliza os itens do menu*/
-        gap: 10px;
+        gap: 47px;
     }
 
     .apresentacao{
@@ -156,10 +156,15 @@ body {
     }
 
     .apresentacao__conteudo__titulo{
-        padding: 8% 0% 0% 3%;
+        padding: 8% 3% 0% 3%;
     }
 
     .apresentacao__conteudo__texto{
         padding: 0% 4%; /*superior, direita, inferior e esquerda*/
+    }
+
+    .apresentacao__imagem{
+        width: 80%;
+        padding-left: 20.2px;
     }
 }
