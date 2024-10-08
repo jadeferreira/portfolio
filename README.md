@@ -1,2 +1,2 @@
-# portfolio
-Portfólio pessoal, desenvolvido em paralelo com o curso de HTML e CSS da Alura.
+# Portfólio
+Portfólio pessoal desenvolvido durante o curso de HTML e CSS da Alura! Este site é uma vitrine do meu aprendizado e das minhas habilidades, com design responsivo para proporcionar uma ótima experiência em qualquer dispositivo.
