@@ -142,7 +142,7 @@ body {
 
     .cabecalho__menu{
         justify-content: center; /*Centraliza os itens do menu*/
-        gap: 13px;
+        gap: 10px;
     }
 
     .apresentacao{
